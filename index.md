@@ -3,6 +3,7 @@
 ## Virtual Interactive Teaching Assistant
 
 ---
+![VITA Logo](https://github.com/VITA-Project/images/vita-logo.jpg "VITA Logo")
 
 ### Overview
 
