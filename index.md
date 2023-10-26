@@ -3,7 +3,7 @@
 ## Virtual Interactive Teaching Assistant
 
 ---
-<img src="https://github.com/VITA-Project/vita-project.github.io/blob/7b9fe25a9e3eff6da5897dc1d695c985a3f219ac/images/vita-project-logo.jpg" height="250"></img>
+<img src="images/vita-project-logo.jpg" height="250"></img>
 
 ### Overview
 
