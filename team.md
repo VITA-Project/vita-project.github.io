@@ -12,3 +12,8 @@ We'll be doing development with 8 weeks of sprints over the summer term -- we'll
   - (we don't need this one to properly avoid giving the full answer, just the basics)
 - Documentation of the work done so far
 - Scope of Work for Summer
+
+## Preparation for Fall
+- fork base version for math/english
+- look at GEIAC rubric and example essays
+- 
