@@ -10,6 +10,8 @@
 Welcome to the VITA project, an ambitious initiative aimed at revolutionizing the educational landscape. Designed for community colleges and beyond, VITA leverages the power of Artificial Intelligence to provide an enhanced learning experience for students. 
 
 ---
+### Looking for the landing page for team members?
+We'll see you over at the <a href="team.html">VITA Team Portal</a>.
 
 ### Why VITA?
 
