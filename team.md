@@ -45,5 +45,7 @@ Reminder of VITA functionality
 ## Artifacts
 requirements.txt (TBD)
 
+raw developer notes (<a href="devnotes.html">here</a>)
+
 preliminary flowchart
 <img src="images/VITA_flowchart.jpg"></img>
